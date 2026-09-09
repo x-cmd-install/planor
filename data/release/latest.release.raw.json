@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3288212,
       "digest": null,
-      "download_count": 617,
+      "download_count": 619,
       "created_at": "2022-08-18T04:56:54Z",
       "updated_at": "2022-08-18T04:56:55Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_linux_amd64.tar.gz"
