@@ -1,0 +1,12 @@
+- repo: openbsd
+  srcname: sysutils/planor
+  binname: planor
+  visiblename: sysutils/planor
+  version: 0.5.1
+  origversion: null
+  status: unique
+  summary: text user interface for cloud services
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - sysutils
