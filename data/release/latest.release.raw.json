@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2574,
       "digest": null,
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2022-08-18T04:57:00Z",
       "updated_at": "2022-08-18T04:57:00Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3392565,
       "digest": null,
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2022-08-18T04:56:58Z",
       "updated_at": "2022-08-18T04:56:58Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3277562,
       "digest": null,
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2022-08-18T04:56:57Z",
       "updated_at": "2022-08-18T04:56:58Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3094274,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2022-08-18T04:56:57Z",
       "updated_at": "2022-08-18T04:56:57Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_freebsd_386.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3285305,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2022-08-18T04:56:57Z",
       "updated_at": "2022-08-18T04:56:58Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_freebsd_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3024917,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2022-08-18T04:56:54Z",
       "updated_at": "2022-08-18T04:56:54Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_freebsd_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3085584,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2022-08-18T04:56:53Z",
       "updated_at": "2022-08-18T04:56:53Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_freebsd_armv6.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3081436,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2022-08-18T04:56:53Z",
       "updated_at": "2022-08-18T04:56:53Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_freebsd_armv7.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3098841,
       "digest": null,
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2022-08-18T04:56:58Z",
       "updated_at": "2022-08-18T04:56:58Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_linux_386.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3288212,
       "digest": null,
-      "download_count": 661,
+      "download_count": 664,
       "created_at": "2022-08-18T04:56:54Z",
       "updated_at": "2022-08-18T04:56:55Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_linux_amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3028783,
       "digest": null,
-      "download_count": 87,
+      "download_count": 88,
       "created_at": "2022-08-18T04:56:57Z",
       "updated_at": "2022-08-18T04:56:57Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_linux_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3087339,
       "digest": null,
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2022-08-18T04:56:54Z",
       "updated_at": "2022-08-18T04:56:54Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_linux_armv6.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3082361,
       "digest": null,
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2022-08-18T04:56:55Z",
       "updated_at": "2022-08-18T04:56:56Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_linux_armv7.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 3084654,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2022-08-18T04:56:59Z",
       "updated_at": "2022-08-18T04:56:59Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_netbsd_386.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3274704,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2022-08-18T04:56:55Z",
       "updated_at": "2022-08-18T04:56:55Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_netbsd_amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 3075002,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2022-08-18T04:56:59Z",
       "updated_at": "2022-08-18T04:57:00Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_netbsd_armv6.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3071609,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2022-08-18T04:56:56Z",
       "updated_at": "2022-08-18T04:56:56Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_netbsd_armv7.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 3091274,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2022-08-18T04:57:00Z",
       "updated_at": "2022-08-18T04:57:00Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_openbsd_386.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3282196,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2022-08-18T04:56:59Z",
       "updated_at": "2022-08-18T04:56:59Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_openbsd_amd64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 3024489,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2022-08-18T04:56:53Z",
       "updated_at": "2022-08-18T04:56:53Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_openbsd_arm64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 3081483,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2022-08-18T04:56:56Z",
       "updated_at": "2022-08-18T04:56:57Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_openbsd_armv6.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3077840,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2022-08-18T04:56:54Z",
       "updated_at": "2022-08-18T04:56:55Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_openbsd_armv7.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 3202249,
       "digest": null,
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2022-08-18T04:56:55Z",
       "updated_at": "2022-08-18T04:56:55Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_windows_386.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 3317384,
       "digest": null,
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2022-08-18T04:56:56Z",
       "updated_at": "2022-08-18T04:56:56Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_windows_amd64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 3060099,
       "digest": null,
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2022-08-18T04:56:59Z",
       "updated_at": "2022-08-18T04:56:59Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_windows_arm64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 3144326,
       "digest": null,
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2022-08-18T04:56:53Z",
       "updated_at": "2022-08-18T04:56:54Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_windows_armv6.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 3137140,
       "digest": null,
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2022-08-18T04:56:58Z",
       "updated_at": "2022-08-18T04:56:59Z",
       "browser_download_url": "https://github.com/mrusme/planor/releases/download/v0.5.1/planor_0.5.1_windows_armv7.tar.gz"
