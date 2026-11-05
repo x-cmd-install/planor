@@ -1,15 +1,3 @@
-- repo: openbsd
-  srcname: sysutils/planor
-  binname: planor
-  visiblename: sysutils/planor
-  version: 0.5.1
-  origversion: null
-  status: newest
-  summary: text user interface for cloud services
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - sysutils
 - repo: aur
   srcname: planor
   binname: planor
@@ -22,3 +10,15 @@
     - giovani_geek@aur
   licenses:
     - GPL-3.0-only
+- repo: openbsd
+  srcname: sysutils/planor
+  binname: planor
+  visiblename: sysutils/planor
+  version: 0.5.1
+  origversion: null
+  status: newest
+  summary: text user interface for cloud services
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - sysutils
